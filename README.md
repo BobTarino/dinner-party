@@ -18,8 +18,9 @@ So that I can post about topics that relate to me.
 
  Clone the files on GitHub to your machine. You will then run 'npm i' and it will install the needed dependencies.
  ![Screen Shot 2021-09-30 at 2 39 39 PM](https://user-images.githubusercontent.com/79377937/135519902-18c4bb1f-44d4-401a-835a-4adc863fa266.png)
-![Screen Shot 2021-09-30 at 2 39 05 PM](https://user-images.githubusercon![Screen Shot 2021-09-30 at 2 39 21 PM](https://user-images.githubusercontent.com/79377937/135519946-b8f29f12-8762-408b-8040-2ba5fc124d1f.png)
-tent.com/79377937/135519931-93be413a-e962-43ff-ac99-90de99757070.png)
+![Screen Shot 2021-09-30 at 2 39 05 PM](https://user-images.githubusercontent.com/79377937/135520028-920d0bfa-980f-4aeb-9fdb-1792449075a5.png)
+![Screen Shot 2021-09-30 at 2 39 21 PM](https://user-images.githubusercontent.com/79377937/135520049-6d9725d7-0150-489d-8011-b7a178e019d9.png)
+
 
 ## Usage
 The user will create a username and a password, select interests and create a bio. This will create the user profile. The user will then have the ability to create and join parties. Within the party, the user can create posts and allow other users to comment and makes posts as well.
