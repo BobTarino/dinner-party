@@ -16,16 +16,23 @@ So that I can post about topics that relate to me.
 - [Questions](#questions)
 ## Installation
 
- Clone the files on GitHub to your machine. You will then run 'npm i' and it will install the needed dependencies.
+* Clone the files on GitHub to your machine. 
+* You will then run 'npm i' and it will install the needed dependencies (autoprefixer, bcrypt, connect-session-sequelize, dotenv, express, express-handlebars, express-session, faker, mysql2, postcss-cli, & sequelize.
+ 
  ![Screen Shot 2021-09-30 at 2 39 39 PM](https://user-images.githubusercontent.com/79377937/135519902-18c4bb1f-44d4-401a-835a-4adc863fa266.png)
 ![Screen Shot 2021-09-30 at 2 39 05 PM](https://user-images.githubusercontent.com/79377937/135520028-920d0bfa-980f-4aeb-9fdb-1792449075a5.png)
 ![Screen Shot 2021-09-30 at 2 39 21 PM](https://user-images.githubusercontent.com/79377937/135520049-6d9725d7-0150-489d-8011-b7a178e019d9.png)
+
+* commands:
+* "npm run start": node server.js // starts app
+* "npm run build": postcss public/css/style.css -o build/styles.css // perform any necessary building/prep tasks
+* "npm run seed": node seeds/index.js // seeds database
 
 
 ## Usage
 The user will create a username and a password, select interests and create a bio. This will create the user profile. The user will then have the ability to create and join parties. Within the party, the user can create posts and allow other users to comment and makes posts as well.
 
-<!--insert deployable link here-->
+Deployed App: https://dinner-parties.herokuapp.com/
 
 ## License
     Licensed under MIT
