@@ -15,7 +15,7 @@ So that I can post about topics that relate to me.
 - [Contributing](#contribution)
 - [Questions](#questions)
 ## Installation
- Cloning the files on GitHub to your machine. You will then run 'npm i' and it will install the needed dependencies.
+ Clone the files on GitHub to your machine. You will then run 'npm i' and it will install the needed dependencies.
 ## Usage
 The user will create a username and a password, select interests and create a bio. This will create the user profile. The user will then have the ability to create and join parties. Within the party, the user can create posts and allow other users to comment and makes posts as well.
 
